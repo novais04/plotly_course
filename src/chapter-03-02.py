@@ -49,7 +49,7 @@ import chart_studio as ct
 import chart_studio.plotly as py
 
 username = 'novais03'
-api_key = 'BHBZxpK3Tscf4NThymJ6'
+api_key = 'ourkey'
 
 ct.tools.set_credentials_file(
     username=username,
